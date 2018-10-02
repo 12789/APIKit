@@ -23,7 +23,7 @@ Pod::Spec.new do |s|
       :tag => "#{s.version}",
   }
 
-  s.swift_version = "4.0"
+  s.swift_version = "4.2"
 
   s.license = {
     :type => "MIT",
